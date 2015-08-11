@@ -31,6 +31,8 @@ public class MainActivity extends Activity {
 	private String provider;
 	private boolean isFirstLocate = true;
 	
+	//version 1.0 test
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
